@@ -1,0 +1,7 @@
+C:\Users\Andreea-PC\source\repos\LR\LR\bin\Debug\LR.exe.config
+C:\Users\Andreea-PC\source\repos\LR\LR\bin\Debug\LR.exe
+C:\Users\Andreea-PC\source\repos\LR\LR\bin\Debug\LR.pdb
+C:\Users\Andreea-PC\source\repos\LR\LR\obj\Debug\LR.csproj.CoreCompileInputs.cache
+C:\Users\Andreea-PC\source\repos\LR\LR\obj\Debug\LR.exe
+C:\Users\Andreea-PC\source\repos\LR\LR\obj\Debug\LR.pdb
+C:\Users\Andreea-PC\source\repos\LR\LR\obj\Debug\LR.csprojAssemblyReference.cache
