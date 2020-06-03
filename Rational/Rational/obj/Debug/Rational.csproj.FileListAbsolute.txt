@@ -1,0 +1,7 @@
+C:\Users\Andreea-PC\source\repos\Rational\Rational\bin\Debug\Rational.exe.config
+C:\Users\Andreea-PC\source\repos\Rational\Rational\bin\Debug\Rational.exe
+C:\Users\Andreea-PC\source\repos\Rational\Rational\bin\Debug\Rational.pdb
+C:\Users\Andreea-PC\source\repos\Rational\Rational\obj\Debug\Rational.csprojAssemblyReference.cache
+C:\Users\Andreea-PC\source\repos\Rational\Rational\obj\Debug\Rational.csproj.CoreCompileInputs.cache
+C:\Users\Andreea-PC\source\repos\Rational\Rational\obj\Debug\Rational.exe
+C:\Users\Andreea-PC\source\repos\Rational\Rational\obj\Debug\Rational.pdb
