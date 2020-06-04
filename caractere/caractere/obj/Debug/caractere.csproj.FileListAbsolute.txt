@@ -1,0 +1,7 @@
+C:\Users\Andreea-PC\source\repos\caractere\caractere\bin\Debug\caractere.exe.config
+C:\Users\Andreea-PC\source\repos\caractere\caractere\bin\Debug\caractere.exe
+C:\Users\Andreea-PC\source\repos\caractere\caractere\bin\Debug\caractere.pdb
+C:\Users\Andreea-PC\source\repos\caractere\caractere\obj\Debug\caractere.csprojAssemblyReference.cache
+C:\Users\Andreea-PC\source\repos\caractere\caractere\obj\Debug\caractere.csproj.CoreCompileInputs.cache
+C:\Users\Andreea-PC\source\repos\caractere\caractere\obj\Debug\caractere.exe
+C:\Users\Andreea-PC\source\repos\caractere\caractere\obj\Debug\caractere.pdb
