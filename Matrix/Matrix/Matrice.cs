@@ -8,7 +8,7 @@ namespace Matrix
 {
     class Matrice
     {
-        private static int n = 10;
+        private static int n = 5;
         private int[,] matriceA = new int[n, n];
         private int[,] matriceB = new int[n, n];
         private int[,] Rezultat= new int[n, n];
@@ -88,7 +88,12 @@ namespace Matrix
             }
            
         }
+       /* public static int determinant()
+        {
 
+            return determinant;
+        }
+        */
         public static void inversa(int[,] matrice)
         {
             
